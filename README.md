@@ -50,4 +50,3 @@
 
 最后，详细的项目讲解请进入我的博客观看：https://blog.csdn.net/weixin_45045804/article/details/129208028?csdn_share_tail=%7B%22type%22%3A%22blog%22%2C%22rType%22%3A%22article%22%2C%22rId%22%3A%22129208028%22%2C%22source%22%3A%22weixin_45045804%22%7D
 
-参考：https://github.com/youngyangyang04/Skiplist-CPP。 
